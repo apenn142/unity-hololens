@@ -1,0 +1,20 @@
+#Ingredients
+4,slices,bread
+6,slices,thick cut bacon
+2,large,tomatoes
+4,Tbsp.,mayonnaise
+4,leaves,lettuce
+#Steps
+Wash lettuce, dry and cut into thin shreds. 
+Slice tomatoes into thick slices.
+Cook bacon until crisp, drain on paper towel and set aside.
+Toast bread until lightly browned, butter if desired and set aside.
+Spread each slice of bread with 1 tablespoon mayonnaise.
+Top with bacon, tomatoes and lettuce. Season with salt and pepper to taste.
+Cut in half and serve.
+#Servings
+2
+#Info
+Quick and easy lunch item
+#Image
+Images/BLT

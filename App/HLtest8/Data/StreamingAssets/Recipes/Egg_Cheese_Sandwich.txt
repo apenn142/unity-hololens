@@ -1,0 +1,12 @@
+#Ingredients
+2 1/2,slices,cheese
+egg
+#Steps
+boil egg
+cook cheese
+#Servings
+3
+#Info
+Perfect Breakfast Sandwhich
+#Image
+Images/EggCheeseSandwhich

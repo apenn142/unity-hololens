@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HLtest8</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Austin\Documents\UnityGames\HLtest8\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Austin\Documents\UnityGames\HLtest8\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Users\Austin\Desktop\2017.4.40f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
