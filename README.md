@@ -1,6 +1,6 @@
-# unity-hololens
+# unity-HoloLens
 ## Created in Unity, written in c#
-Microsoft Hololens application designed to be a hands free 'cookbook' cooking utility.
+Microsoft HoloLens application designed to be a hands free 'cookbook' cooking utility.
 
 **Scripts for logic and functionality are located in the assets/scripts/ directory.**
 
@@ -10,3 +10,5 @@ Includes functionality including:
  - view recipe steps
  - view ingredient list
  - serving size menu to scale ingredient amount to appropriately feed an integer number of people eating
+
+## Video Demonstration: https://youtu.be/PT7ipVh5MRo
